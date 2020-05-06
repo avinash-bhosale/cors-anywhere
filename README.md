@@ -2,8 +2,7 @@
 cors anywhere
 
 
-to avoid cors issue from javascript
-
+To avoid No Access Control allow origin header is present on the requested resource
 
 make api calls to http://your_domain_ip:port/some_url
 
